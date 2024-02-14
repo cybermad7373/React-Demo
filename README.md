@@ -1,5 +1,5 @@
 
-//Create react application 
+# Create react application 
 ```
 $ npx create-react-app my-app
 
